@@ -27,7 +27,7 @@ public class MainGame {
     private static final String HIGH_SCORE = "high score";
 
     public static final int startingMaxValue = 2048;
-    public static final int endingMaxValue = 32768;
+    public static final int endingMaxValue = 100000000;
 
     public static final int GAME_WIN = 1;
     public static final int GAME_LOST = -1;
